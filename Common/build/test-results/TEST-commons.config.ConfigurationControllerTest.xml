@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="commons.config.ConfigurationControllerTest" tests="6" failures="0" errors="0" timestamp="2014-06-24T12:56:11" hostname="pc-00361-MacBook-Pro.local" time="0.583">
+  <properties/>
+  <testcase name="存在しないプロパティは取得できない" classname="commons.config.ConfigurationControllerTest" time="0.002"/>
+  <testcase name="存在するプロパティを取得する" classname="commons.config.ConfigurationControllerTest" time="0.0"/>
+  <testcase name="不正なパスを指定すると例外が発生する" classname="commons.config.ConfigurationControllerTest" time="0.0"/>
+  <testcase name="存在しないプロパティは取得できない" classname="commons.config.ConfigurationControllerTest" time="0.001"/>
+  <testcase name="存在するプロパティを取得する" classname="commons.config.ConfigurationControllerTest" time="0.001"/>
+  <testcase name="不正なパスを指定すると例外が発生する" classname="commons.config.ConfigurationControllerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

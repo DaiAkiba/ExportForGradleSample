@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="commons.arguments.ArgumentsUtilTest$エンコーディング指定の項目に正しい文字列を指定" tests="3" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="pc-00361-MacBook-Pro.local" time="1.403614571586E9">
+  <properties/>
+  <testcase name="正常にエンコード形式が取得できる" classname="commons.arguments.ArgumentsUtilTest$エンコーディング指定の項目に正しい文字列を指定" time="0.093"/>
+  <testcase name="正常にエンコード形式が取得できる" classname="commons.arguments.ArgumentsUtilTest$エンコーディング指定の項目に正しい文字列を指定" time="0.002"/>
+  <testcase name="正常にエンコード形式が取得できる" classname="commons.arguments.ArgumentsUtilTest$エンコーディング指定の項目に正しい文字列を指定" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN File option not set for appender [FILE].
+log4j:WARN Are you using FileAppender instead of ConsoleAppender?
+]]></system-err>
+</testsuite>

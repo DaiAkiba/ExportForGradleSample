@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="commons.arguments.ArgumentsUtilTest$年月日指定の項目にアルファベットを指定" tests="3" failures="0" errors="0" timestamp="2014-06-24T12:56:11" hostname="pc-00361-MacBook-Pro.local" time="0.589">
+  <properties/>
+  <testcase name="IllegalArgumentExceptionが発生する" classname="commons.arguments.ArgumentsUtilTest$年月日指定の項目にアルファベットを指定" time="0.005"/>
+  <testcase name="IllegalArgumentExceptionが発生する" classname="commons.arguments.ArgumentsUtilTest$年月日指定の項目にアルファベットを指定" time="0.004"/>
+  <testcase name="IllegalArgumentExceptionが発生する" classname="commons.arguments.ArgumentsUtilTest$年月日指定の項目にアルファベットを指定" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

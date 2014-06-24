@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="commons.database.OracleDatabaseManagerTest" tests="6" failures="0" errors="0" timestamp="2014-06-24T12:56:11" hostname="pc-00361-MacBook-Pro.local" time="0.637">
+  <properties/>
+  <testcase name="正しく接続してConnectionオブジェクトが取得できる" classname="commons.database.OracleDatabaseManagerTest" time="0.447"/>
+  <testcase name="DB認証に失敗した場合SQLExceptionが発生する" classname="commons.database.OracleDatabaseManagerTest" time="0.03"/>
+  <testcase name="接続先が不正の場合SQLExceptionが発生する" classname="commons.database.OracleDatabaseManagerTest" time="0.0"/>
+  <testcase name="正しく接続してConnectionオブジェクトが取得できる" classname="commons.database.OracleDatabaseManagerTest" time="0.031"/>
+  <testcase name="DB認証に失敗した場合SQLExceptionが発生する" classname="commons.database.OracleDatabaseManagerTest" time="0.026"/>
+  <testcase name="接続先が不正の場合SQLExceptionが発生する" classname="commons.database.OracleDatabaseManagerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

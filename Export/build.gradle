@@ -1,0 +1,39 @@
+apply plugin: "java"
+apply plugin: "application"
+
+mainClassName='export.AccessLogExport'
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'src'
+        }
+        resources {
+            srcDir 'src' + 'data'
+        }
+    }
+    test {
+        java {
+            srcDir 'src' + 'test'
+        }
+        resources {
+            srcDir 'src' + 'data'
+        }
+    }
+}
+
+dependencies {
+    compile "commons-cli:commons-cli:1.2"
+    compile "commons-logging:commons-logging:1.1.1"
+    compile project(':Common')
+
+    testCompile "commons-cli:commons-cli:1.2"
+    testCompile "commons-logging:commons-logging:1.1.1"
+    testCompile "junit:junit:4.11"
+    testCompile fileTree(dir: "lib", include: "*.jar")
+    testCompile project(':Common')
+}

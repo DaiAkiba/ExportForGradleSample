@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" tests="15" failures="0" errors="0" timestamp="2014-06-24T12:56:11" hostname="pc-00361-MacBook-Pro.local" time="0.165">
+  <properties/>
+  <testcase name="ログ出力先ディレクトリがnullの場合ログ出力先にカレントディレクトリが指定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログ出力先ディレクトリが空の場合ログ出力先にカレントディレクトリが指定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル名が空の場合ログ出力先にカレントディレクトリのみが設定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル出力先ファイル名を設定できる" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル名がnullの場合ログ出力先にカレントディレクトリのみが設定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログ出力先ディレクトリがnullの場合ログ出力先にカレントディレクトリが指定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログ出力先ディレクトリが空の場合ログ出力先にカレントディレクトリが指定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル名が空の場合ログ出力先にカレントディレクトリのみが設定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル出力先ファイル名を設定できる" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル名がnullの場合ログ出力先にカレントディレクトリのみが設定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログ出力先ディレクトリがnullの場合ログ出力先にカレントディレクトリが指定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログ出力先ディレクトリが空の場合ログ出力先にカレントディレクトリが指定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル名が空の場合ログ出力先にカレントディレクトリのみが設定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル出力先ファイル名を設定できる" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <testcase name="ログファイル名がnullの場合ログ出力先にカレントディレクトリのみが設定される" classname="commons.helper.BatchCommonHelperTest$setLogFilePathのテスト" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
