@@ -37,3 +37,7 @@ dependencies {
     testCompile fileTree(dir: "lib", include: "*.jar")
     testCompile project(':Common')
 }
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '1.4'
+}
