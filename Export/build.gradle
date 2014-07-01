@@ -26,6 +26,10 @@ sourceSets {
     }
 }
 
+compileJava { 
+  options.encoding = "UTF-8" 
+}
+
 dependencies {
     compile "commons-cli:commons-cli:1.2"
     compile "commons-logging:commons-logging:1.1.1"
